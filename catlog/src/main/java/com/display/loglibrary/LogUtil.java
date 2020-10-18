@@ -2,11 +2,7 @@ package com.display.loglibrary;
 
 import android.app.Application;
 
-import androidx.annotation.MainThread;
-
 import com.display.loglibrary.impl.MMapFileWriter;
-
-import java.util.LinkedHashMap;
 
 /**
  * @author hanpei
